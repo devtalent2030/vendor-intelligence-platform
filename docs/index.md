@@ -1,4 +1,4 @@
-# Vendor Intelligence Platform (Project 3)
+# Vendor Intelligence Platform
 **AI-assisted Supplier Relationship Management (SRM) + Vendor Risk Prediction**
 
 This project demonstrates how to **manage and predict operational risk** in IT procurement by combining:
